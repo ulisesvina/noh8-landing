@@ -21,7 +21,7 @@ const Home = () => {
         </button>
       </Link>
       <a
-        href="https://discord.com/api/oauth2/authorize?client_id=989985094590672946&permissions=8&redirect_uri=https%3A%2F%2Fnoh8-around.us&response_type=code&scope=applications.commands%20dm_channels.read%20bot"
+        href="https://discord.com/oauth2/authorize?client_id=989985094590672946&scope=bot&permissions=8&redirect_uri=https%3A%2F%2Fwww.noh8-around.us"
         target="_BLANK"
       >
         <button className="mt-5 bg-cameo-pink hover:bg-cambridge-blue text-xl text-white py-2 px-4 rounded-xl">
